@@ -1,4 +1,5 @@
 Introdução à Ciência da Computação com Python - Parte 1
+
 Universidade de São Paulo(USP)
 
     Semana 1: Visão geral da Ciência da Computação e introdução ao Python, abrangendo variáveis e o primeiro programa.
